@@ -1,0 +1,41 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Summary of the paper}{4}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Data}{5}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Stata code and interpretation}{6}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Tables}{6}{subsection.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Robustness check - Logit instead of Probit}{14}{subsection.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Conclusion}{21}{section.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A}In-text estimation}{21}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Probit statement}{21}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Comment on late capture}{22}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{OLS statement}{22}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Predicted probability of death}{22}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Table 3 with regiment fixed effects}{22}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Table 3 with splines}{22}{section*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Weibull specification}{24}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Month dummies}{24}{section*.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Cox Proportional Hazard Model}{24}{section*.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{On limiting the sample}{24}{section*.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{On the mortality of privates}{26}{section*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{On the role of networks in predicting escape from Andersonville}{26}{section*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B}Non-parametric estimation}{30}{appendix.B}

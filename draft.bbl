@@ -1,0 +1,48 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% $ biber version 0.9.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber or bibtex as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \entry{costa2007surviving}{article}{}
+    \name{labelname}{2}{}{%
+      {{uniquename=0,hash=6cfdc7e9e3c9efc9d53a32aed35baa7d}{Costa}{C\bibinitperiod}{Dora\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      {{uniquename=0,hash=810bd2c359dcd66ebe51180e096a598b}{Kahn}{K\bibinitperiod}{Matthew\bibnamedelima E}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{2}{}{%
+      {{uniquename=0,hash=6cfdc7e9e3c9efc9d53a32aed35baa7d}{Costa}{C\bibinitperiod}{Dora\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      {{uniquename=0,hash=810bd2c359dcd66ebe51180e096a598b}{Kahn}{K\bibinitperiod}{Matthew\bibnamedelima E}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {JSTOR}%
+    }
+    \strng{namehash}{4921deafbe0689657a3c5f451aef7dd1}
+    \strng{fullhash}{4921deafbe0689657a3c5f451aef7dd1}
+    \field{sortinit}{C}
+    \field{labelyear}{2007}
+    \field{journaltitle}{The American Economic Review}
+    \field{number}{4}
+    \field{title}{Surviving andersonville: The benefits of social networks in POW camps}
+    \field{volume}{97}
+    \field{year}{2007}
+    \field{pages}{1467\bibrangedash 1487}
+  \endentry
+
+\endrefsection
+\endinput
+
